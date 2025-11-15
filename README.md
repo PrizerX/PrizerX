@@ -1,4 +1,4 @@
-Hi I am @pzx
+Hi I am @Prizerx
 Coding in Java since 2020.
 Always learning something new
 
