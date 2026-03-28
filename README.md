@@ -55,7 +55,4 @@ Currently building projects and strengthening core fundamentals.
   <a href="mailto:iampriyansh0309@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/pzxpv/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
 </p>
